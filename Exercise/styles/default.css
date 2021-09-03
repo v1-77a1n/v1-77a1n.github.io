@@ -5,7 +5,7 @@
 
 body
 {
-	font-family: tahoma;
+	font-family: Cambria, Cochin, Georgia, Times, serif;
 	color: #ffefbd ;
 	background-color: #5a464c;
 	margin-left: 75px;
@@ -16,13 +16,13 @@ body
 header, footer
 {
 	text-align: center;
-	color: ;
+	color: white;
 	font-weight: bold;
 }
 
 h1, h2, h3
 {
-	color: FFefbd;
+	color: white;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	text-align: center;
 }
@@ -30,7 +30,7 @@ h1, h2, h3
 h3
 {
 	font-size: 200%;
-	line-height: 0px;
+	line-height: 0;
 }
 
 a
