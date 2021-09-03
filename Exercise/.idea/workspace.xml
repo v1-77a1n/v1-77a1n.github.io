@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac048de3-2000-4252-887b-eded315b9980" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Le-Activity1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Le-Activity1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/default.css" afterDir="false" />
-    </list>
+    <list default="true" id="ac048de3-2000-4252-887b-eded315b9980" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630678344306</updated>
       <workItem from="1630678345724" duration="557000" />
+      <workItem from="1630679160077" duration="380000" />
     </task>
     <servers />
   </component>
@@ -51,5 +49,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
