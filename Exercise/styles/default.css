@@ -5,9 +5,9 @@
 
 body
 {
-	font-family: Cambria, Cochin, Georgia, Times, serif;
+	font-family: Cambria, serif;
 	color: #ffefbd ;
-	background-color: #5a464c;
+	background-color: rebeccapurple;
 	margin-left: 75px;
 	margin-right: 75px;
 }
@@ -16,14 +16,14 @@ body
 header, footer
 {
 	text-align: center;
-	color: white;
+	color: red;
 	font-weight: bold;
 }
 
 h1, h2, h3
 {
-	color: white;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: gold;
+	font-family: Cambria, Cochin, serif;
 	text-align: center;
 }
 
