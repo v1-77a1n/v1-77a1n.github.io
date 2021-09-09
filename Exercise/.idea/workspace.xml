@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/styles/default.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,7 +44,7 @@
       <workItem from="1631190316135" duration="37000" />
       <workItem from="1631190355697" duration="18000" />
       <workItem from="1631190374801" duration="46000" />
-      <workItem from="1631197627358" duration="4307000" />
+      <workItem from="1631197638285" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="css commit">
       <created>1630680215644</created>
