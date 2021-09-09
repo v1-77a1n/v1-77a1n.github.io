@@ -54,6 +54,20 @@ figcaption
 	font-style: italic;
 }
 
+th
+{
+	background-color: darkgray;
+}
+
+tbody tr:nth-child(even) td
+{
+	background-color: lightgray;
+}
+
+tbody td
+{
+	color: black;
+}
 
 nav
 {
