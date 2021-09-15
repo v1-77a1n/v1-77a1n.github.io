@@ -3,32 +3,40 @@
     <head>
         <title>Clarke Le, Form</title>
         <meta charset="UTF-8">
-        <link href="styles/default.css" rel="stylesheet" type="text/css">
+        <link href="styles/forms.css" rel="stylesheet" type="text/css">
     </head>
 
     <body>
         <header>
-            <h1>Coffee Shop</h1>
+            <h1>Random Shop</h1>
         </header>
 
     <main>
         <h2>Interest Form</h2>
-        <form>
+        <div class="formBox">
+        <form action="#">
             <label for="name">Name: </label>
-            <input type="text" id="name"><br>
+            <input type="text" id="name" placeholder="John Doe"><br>
+            <label for="numberType">Type of Number: </label>
+            <select name="numType" id="numberType" size="2">
+                <option value="home">Home</option>
+                <option value="cell">Cell</option>
+            </select><br>
             <label for="phone_number">Phone Number: </label>
-            <input type="text" id="phone_number"><br>
+            <input type="number" id="phone_number"><br>
             <label for="email">Email: </label>
-            <input type="text" id="email"><br>
+            <input type="email" id="email" required><br>
             <label>Choose what you want to receive: </label><br>
             <input type = "radio" id="coupons" name="newsletterOrCoupons" value="coupons">
             <label for="coupons">Coupons</label>
             <input type = "radio" id="newsletter" name="newsletterOrCoupons" value="newsletter">
             <label for="newsletter">Newsletter</label><br>
+            <input type="checkbox" id="terms" name="termsAndConditions">
+            <label for="terms">Terms and Conditions</label><br>
             <input type="submit">
-
-
+            <input type ="reset">
         </form>
+        </div>
     </main>
     </body>
 </html>

@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: orangered;
+    font-family: Mongolian Baiti, Arial, serif;
+}
+
+h1 {
+
+}
+
+form {
+    display: inline-block;
+    padding-bottom: 10px;
+    border-width: 10px;
+    border-color: black;
+}
+
+.formBox {
+    background-color: lightgrey;
+    width: 75%;
+}
