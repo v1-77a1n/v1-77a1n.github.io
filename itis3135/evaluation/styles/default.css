@@ -24,7 +24,7 @@ section {
     background-color: white;
 }
 
-#desc {
+.desc {
     margin: 30px;
     text-align: justify;
 }
