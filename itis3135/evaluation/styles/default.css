@@ -1,0 +1,44 @@
+body {
+    background-color: peachpuff;
+    font-family: calibri,fira code, serif;
+}
+
+a:link {
+    color: black;
+}
+
+#web-eval-header {
+    background-color: white;
+    padding: 15px;
+    margin: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+section {
+    text-align: justify;
+    margin: 30px;
+    padding-top: 5px;
+    background-color: white;
+}
+
+#desc {
+    margin: 30px;
+    text-align: justify;
+}
+
+ul {
+    margin: 35px;
+}
+
+#link-list-desc {
+    margin: 50px 30px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+img {
+    size: 50vm;
+}
