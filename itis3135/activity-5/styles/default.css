@@ -1,0 +1,32 @@
+#button-box
+{
+    margin-top: 50px;
+}
+
+button
+{
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #A75F60;
+}
+
+#top-box
+{
+    text-align: justify;
+    background-color: #FFD275;
+    border-style: double;
+    border-width: 15px;
+    border-color: #A75F60;
+    padding: 20px;
+}
+
+header
+{
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+body
+{
+    background-color: #FFD275;
+}
